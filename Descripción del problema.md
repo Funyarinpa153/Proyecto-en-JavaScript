@@ -13,4 +13,4 @@ Entre los datos que no todos los clientes poseen se encuentran:
 - Cantidad de hijos
 - Propiedades a su nombre
 
-La precognición de estos datos permitirá al programa en cuestión el realizar la **cotización** del producto o servicio por medio de **cálculos**. La naturaleza de dichos **cálculos** dependerá del tipo de **recargo** y, si es que aplica, la cantidad de este.
+La precognición de dichos datos permitirá al programa en cuestión el realizar la **cotización** del producto o servicio por medio de **cálculos**. La naturaleza de dichos **cálculos** dependerá del tipo de **recargo** y, si es que aplica, la cantidad de este. Además, cada proveedor dispondrá de su propia lista de recargos que cobrará a sus clientes. 
