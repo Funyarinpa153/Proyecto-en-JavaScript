@@ -22,25 +22,25 @@ El siguiente algoritmo busca explicar el procedimiento realizado para la creaci�
    
 3. Con los porcentajes de **recargos** y los datos del cliente a la mano, es momento de realizar los cálculos:
    - Edad:
-      Si el cliente tiene entre **18** y **24** años, el **recargo** por edad será del **10%**.
+      si el cliente tiene entre **18** y **24** años, el **recargo** por edad será del **10%**.
       Si el cliente tiene entre **25** y **49** años, el **recargo** por edad será del **20%**.
       Si el cliente tiene **50** o más años, el **recargo** por edad será del **30%**.
       
    - Ingresos:
-      El **recargo** será del **5%** del salario del cliente.
+      el **recargo** será del **5%** del salario del cliente.
       
     **Recargos** cuya existencia variará de cliente en cliente:
     
    - Cónyugue:
-      Si el cónyugue tiene entre **18** y **24** años, el **recargo** por edad será del **10%**.
+      si el cónyugue tiene entre **18** y **24** años, el **recargo** por edad será del **10%**.
       Si el cónyugue tiene entre **25** y **49** años, el **recargo** por edad será del **20%**.
       Si el cónyugue tiene **50** o más años, el **recargo** por edad será del **30%**.
        
    - Hijos:
-      El **recargo** será del **20%** por cada hijo.
+      el **recargo** será del **20%** por cada hijo.
        
    - Propiedades:
-      El **recargo** será del **35%** por cada propiedad.
+      el **recargo** será del **35%** por cada propiedad.
        
    Ahora se debe sumar el **recargo total** con el **precio base**.
     
