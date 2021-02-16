@@ -1,0 +1,1 @@
+Datos misceláneos del programa
