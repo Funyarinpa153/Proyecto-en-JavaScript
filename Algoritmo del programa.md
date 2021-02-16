@@ -21,12 +21,12 @@ El siguiente algoritmo busca explicar el procedimiento realizado para la creaci�
    Es de suma importancia el convertir las cantidades ingresadas a números; de esta manera, los cálculos podrán realizarse.
    
 3. Con los porcentajes de **recargos** y los datos del cliente a la mano, es momento de realizar los cálculos:
-   - Edad
+   - Edad:
       Si el cliente tiene entre **18** y **24** años, el **recargo** por edad será del **10%**.
       Si el cliente tiene entre **25** y **49** años, el **recargo** por edad será del **20%**.
       Si el cliente tiene **50** o más años, el **recargo** por edad será del **30%**.
       
-   - Ingresos
+   - Ingresos:
       El **recargo** será del **5%** del salario del cliente.
       
     **Recargos** cuya existencia variará de cliente en cliente:
