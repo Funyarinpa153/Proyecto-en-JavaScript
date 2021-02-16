@@ -14,3 +14,5 @@ Entre los datos que no todos los clientes poseen se encuentran:
 - Propiedades a su nombre
 
 La precognición de dichos datos permitirá al programa en cuestión el realizar la **cotización** del producto o servicio por medio de **cálculos**. La naturaleza de dichos **cálculos** dependerá del tipo de **recargo** y, si es que aplica, la cantidad de este. Además, cada proveedor dispondrá de su propia lista de recargos que cobrará a sus clientes.
+
+No obstante, no todo es color de rosa. Realizar una cotización manualmente puede llevar mucho trabajo. Para una empresa, sería un error el responsabilizar a sus empleados con cientos o incluso miles de clientes que desean cotizar un producto. Por esta razón, la solución a este problema será el desarrollo de un **cotizador automático**.
